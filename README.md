@@ -5,4 +5,9 @@
 - 🏠 From Suzhou, China
 - 😄 Pronouns: he/him
 
-[![Chuan Shi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shichuanyes)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shichuanyes&show_icons=true&count_private=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shichuanyes" />
+</a>
