@@ -2,6 +2,7 @@
 
 - 🎓 Undergraduate at the University of Washington, Seattle
 - 🧮 Major in ACMS (**A**pplied and **C**omputational **M**ath **S**ciences) on the DSS (**D**ata **S**cience & **S**tatistics) 📊 track
+- 🎓 Incoming master's student at [NYU Center for Data Science](https://cds.nyu.edu/)
 - 🏠 From [Suzhou, China](https://en.wikipedia.org/wiki/Suzhou)
 - 😄 Pronouns: he/him
 
